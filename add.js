@@ -1,7 +1,7 @@
-const add = (a,b) =>{
-    return a+b;
+const add = (a,b) => {
+    return (a+b);
 }
 
-console.log(add);
+const sum1 = add(100+200);
 
-module.export = add;
+console.log(sum1);
