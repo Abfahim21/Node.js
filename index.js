@@ -1,3 +1,7 @@
+console.log("Hello from Node.JS");
+
 require('./add');
 
-console.log("Hello from Node.JS");
+require('./superman');
+
+require('./batman');
